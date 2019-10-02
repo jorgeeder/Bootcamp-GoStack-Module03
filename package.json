@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "webpack --mode", // "webpack --mode" minifica o bundle.js "webpack --mode development" deixa legivel para o dev
+    "build": "webpack --mode",
     "dev": "webpack-dev-server --mode development"
   },
   "devDependencies": {
